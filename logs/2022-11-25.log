@@ -1,0 +1,42 @@
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.10.3[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msuggest[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2022-11-25 15:48:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.10.3[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msuggest[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2022-11-25 15:48:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
